@@ -1,4 +1,4 @@
-package com.fengfang.controller;
+package com.fengfang.day01demo02helloquick.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

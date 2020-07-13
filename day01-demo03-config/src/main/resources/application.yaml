@@ -1,0 +1,17 @@
+#server:
+#  port: 8089
+
+#以下配置用于测试配置文件与实体的绑定
+#person:
+#  last-name: 刘雪华
+#  age: 25
+#  boss: false
+#  birthday: 1990/02/03
+#  map: {K1: v1,K2: v2}
+#  lists:
+#    - 李四
+#    - 王五
+#    - 赵六
+#  Dog:
+#    name: 小黄
+#    age: 2
